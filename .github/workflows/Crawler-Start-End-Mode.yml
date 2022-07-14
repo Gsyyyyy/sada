@@ -17,7 +17,7 @@ on:
       end:
         description: 'End Date in YYYY-MM-DD format'
         required: true
-        default: '2022-09-22'
+        default: '2022-09-25'
 
 jobs:
   build:
